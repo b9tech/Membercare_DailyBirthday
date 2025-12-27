@@ -1,0 +1,5 @@
+dnspython
+pandas
+python-dotenv
+openpyxl
+requests
